@@ -6,7 +6,7 @@
 <h2> Download this project free and Dont Forget Give us Star &star; &starf; &bigstar;  <h2/>
 <hr>
 <h3> This is Ui of this project<h3/>
-<p target="_blank">https://ankush2093.github.io/Recipe-App/<p/>
+<p target="_blank">https://dishnidivya.github.io/Food-recipe<p/>
 
 <h3> This Ui of this Project<h3/>
   
